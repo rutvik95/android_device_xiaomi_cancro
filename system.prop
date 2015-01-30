@@ -18,6 +18,7 @@ vidc.debug.level=4
 
 # Telephony property for fix cdma
 ro.telephony.default_network=10
+ril.subscription.types=NV,RUIM
 
 # System property for cabl
 ro.qualcomm.cabl=0
